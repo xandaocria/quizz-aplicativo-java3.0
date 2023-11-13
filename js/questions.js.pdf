@@ -3,37 +3,35 @@ answers
 let questions = [
 {
 numb: 1,
-question: "Quem foi a única pessoa na história a receber o Prêmio
-Nobel em áreas científicas diferentes?",
-answer: "Marie Curiee",
+question: "Qual o país mais grande do mundo?",
+answer: "Russia",
 options: [
-"Albert Einstein",
-"Marie Curiee",
-"Stephen Hawking",
-"Linus Pauling"
+"China",
+"Inglaterra",
+"Russia",
+"Eatados Unidos"
 ]
 },
 {
 numb: 2,
-question: "Qual o país mais novo do mundo?",
-answer: "Sudão do Sul",
+question: "Qual as línguas mais faladas do mundo?"
+answer:"Inglês e Mandarim
 options: [
-"Timor Lestet",
-"Montenegro",
-"Sudão do Sul",
-"Kosovo"
+"Português e Inglês",
+"Inglẽs e Mandarim",
+"Inglẽs e Espanhol",
+"Françes e Inglês"
 ]
 },
 {
 numb: 3,
-question: "Qual o nome do evento astronômico responsável pelo dia
-mais longo do ano?",
-answer: "Solstício de verão",
+question: "Qual o nome da pessoa mais rica do mundo?",
+answer: "Elon Musk",
 options: [
-"Equinócio de outono",
-"Solstício de inverno",
-"Solstício de verão",
-"Solstício de outono"
+"Elon Musk",
+"Bernard Arnault e família"
+"Jeff Bezos"
+"Mohammad bin Salman"
 ]
 },
 {
@@ -51,14 +49,13 @@ options: [
 },
 {
 numb: 5,
-question: "Quais planetas do sistema solar realizam seu movimento de
-rotação em sentido horário?",
-answer: "Vênus e Urano",
+question: "Quantos animais Moises levou para a arca?",
+answer: "Nenhum",
 options: [
-"Saturno e Júpiter",
-"Vênus e Urano",
-"Terra e Marte",
-"Mercúrio e Saturno"
+"365",
+"Nenhum",
+"Um par de cada espécie",
+"580"
 ]
 },
 // you can uncomment the below codes and make duplicate as more as you
