@@ -1,76 +1,71 @@
-// creating an array and passing the number, questions, options, and
-answers
+// creating an array and passing the number, questions, options, and answers
 let questions = [
-{
-numb: 1,
-question: "Qual o país mais grande do mundo?",
-answer: "Russia",
-options: [
-"China",
-"Inglaterra",
-"Russia",
-"Eatados Unidos"
-]
-},
-{
-numb: 2,
-question: "Qual as línguas mais faladas do mundo?"
-answer:"Inglês e Mandarim
-options: [
-"Português e Inglês",
-"Inglẽs e Mandarim",
-"Inglẽs e Espanhol",
-"Françes e Inglês"
-]
-},
-{
-numb: 3,
-question: "Qual o nome da pessoa mais rica do mundo?",
-answer: "Elon Musk",
-options: [
-"Elon Musk",
-"Bernard Arnault e família"
-"Jeff Bezos"
-"Mohammad bin Salman"
-]
-},
-{
-numb: 4,
-question: "Quantos pares de costelas um ser humano, normalmente,
-possui?",
-answer: "12",
-options: [
-"12",
-"11",
-"14",
-"13"
-]
+  {
+    numb: 1,
+    question: "Qual o país mais grande do mundo"
+     answer"Russia",
+    options: [
+      "Russia",
+      "Brasil",
+      "China",
+      "Argentina",
+    ]
+  },
+  {
+    numb: 2,
+    question: "Qual as línguas mais faladas do mundo?",
+    answer: "Inglês e Mandarim",
+    options: [
+      "Inglẽs e Português",
+      "Inglês e Mandarim",
+      "Inglẽs e Italiano",
+      "Italiano e Françes"
+    ]
+  },
+  {
+    numb: 3,
+    question: "Qual o automovel: "Solstício de verão",
+    options: [
+      "Equinócio de outono",
+      "Solstício de inverno",
+      "Solstício de verão",
+      "Solstício de outono"
+    ]
+  },
+  {
+    numb: 4,
+    question: "Quantos pares de costelas um ser humano, normalmente, possui?",
+    answer: "12",
+    options: [
+      "12",
+      "11",
+      "14",
+      "13"
+    ]
+  },
+  {
+    numb: 5,
+    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
+    answer: "Vênus e Urano",
+    options: [
+      "Saturno e Júpiter",
+      "Vênus e Urano",
+      "Terra e Marte",
+      "Mercúrio e Saturno"
+    ]
+  },
+  // you can uncomment the below codes and make duplicate as more as you want to add question
+  // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
-},
-{
-numb: 5,
-question: "Quantos animais Moises levou para a arca?",
-answer: "Nenhum",
-options: [
-"365",
-"Nenhum",
-"Um par de cada espécie",
-"580"
-]
-},
-// you can uncomment the below codes and make duplicate as more as you
-want to add question
-// but remember you need to give the numb value serialize like
-1,2,3,5,6,7,8,9.....
-// {
-// numb: 6,
-// question: "Your Question is Here",
-// answer: "Correct answer of the question is here",
-// options: [
-// "Option 1",
-// "option 2",
-// "option 3",
-// "option 4"
-// ]
-// },
+  //   {
+  //   numb: 6,
+  //   question: "Your Question is Here",
+  //   answer: "Correct answer of the question is here",
+  //   options: [
+  //     "Option 1",
+  //     "option 2",
+  //     "option 3",
+  //     "option 4"
+  //   ]
+  // },
 ];
